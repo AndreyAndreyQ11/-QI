@@ -1,0 +1,3 @@
+https://fls.guru/cssbackground.html	
+
+http://hex2rgba.devoth.com/		Кодировщик из HEX в RGBA
